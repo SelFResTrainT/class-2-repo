@@ -1,0 +1,1 @@
+this is a txt file which whose content is going to get loaded in a another javascript file with the help of fs or file system module . 
